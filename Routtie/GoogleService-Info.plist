@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCsLSEZYWUll8IjWvnbNGaHCDG7Nks6sLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501093649583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>reetseeffect.RouttieApplication</string>
+	<key>PROJECT_ID</key>
+	<string>routtie-2eef0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>routtie-2eef0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501093649583:ios:a94bb3f0543a6521cb985a</string>
+</dict>
+</plist>
