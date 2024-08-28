@@ -17,5 +17,5 @@ IMAGES:
 
 CONTACT:
 If you have any questions, suggestions, or feedback, feel free to reach out:
-Name: Thabiso
-Email: gaereetsethabiso@gmail.com
+- Name: Thabiso
+- Email: gaereetsethabiso@gmail.com
